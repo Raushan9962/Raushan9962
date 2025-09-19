@@ -4,13 +4,13 @@
 
 Email Me 👉 ✉️ **raushanitwork7@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** Food delivery
-- 🌱 **I’m currently learning:** Node and Express
+- 🔭 **I’m currently working on:** WellCart 
+- 🌱 **I’m currently learning:** Django
 - 👯 **I’m looking to collaborate on:** Ecommerce web App
-- 🤔 **I’m looking for help with:** Food delivery
+- 🤔 **I’m looking for help with:** ecommerce web Application
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** raushanitwork7@gmail.com
-- 😄 **Pronouns:** Raushan Bro
+- 😄 **Pronouns:** Raushan ji
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
 ## 🔗 I am a Content Creator. 😊😊
