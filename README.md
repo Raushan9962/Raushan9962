@@ -4,10 +4,10 @@
 
 Email Me 👉 ✉️ **raushanitwork7@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** WellCart 
+- 🔭 **I’m currently working on:** company project 
 - 🌱 **I’m currently learning:** Django
-- 👯 **I’m looking to collaborate on:** Ecommerce web App
-- 🤔 **I’m looking for help with:** ecommerce web Application
+- 👯 **I’m looking to collaborate on:**
+- 🤔 **I’m looking for help with:** 
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** raushanitwork7@gmail.com
 - 😄 **Pronouns:** Raushan ji
