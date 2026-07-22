@@ -1,114 +1,117 @@
-# 💫 Hi 👋, I'm Raushan Kumar
+<div align="center">
 
-**A Passionate Full Stack Developer| MERN Stack | Django | PERN Stack | Python**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:06B6D4&height=200&section=header&text=Raushan%20Kumar&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20%7C%20Python%2FDjango&descAlignY=58&descSize=18" width="100%"/>
 
-📧 **Email:** raushanitwork7@gmail.com
----
-### 🚀 About Me
+<a href="https://linkedin.com/in/raushan-kumar-91140723a">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:raushanitwork7@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/Raushan9962">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-- 🔭 **Currently working on:** Production e-commerce platforms (Gifttoli, Aloura Candles)
-- 🌱 **Currently learning:** Generative AI & building Agentic AI implementation projects
-- 💼 **Role:** MERN Stack Developer @ Gifttoli, Delhi
-- 🎓 **Education:** B.Tech in Computer Science, Punjab Technical University
-- 💬 **Ask me about:** Full Stack Development, REST APIs, Deployment & Collaboration
-- 📫 **Reach me:** raushanitwork7@gmail.com
-- ⚡ **Fun fact:** I Love Tech and Tech Loves Me
+</div>
 
+<br/>
 
+## 👨‍💻 About Me
 
-### 💻 Tech Stack
+I'm a **Full Stack Developer** based in India, building and maintaining production e-commerce platforms. I specialize in the **MERN stack** and am expanding into **Python/Django**, cloud deployment, and applied **Generative & Agentic AI**.
 
-**Languages**
+```yaml
+role: MERN Stack Developer @ Gifttoli, Delhi
+education: B.Tech in Computer Science — Punjab Technical University
+currently_building: Production e-commerce platforms (Gifttoli, Aloura Candles)
+currently_learning: Generative AI & Agentic AI implementations
+open_to: Collaboration, freelance work, tech discussions
+```
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+<br/>
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Languages & Core**
+
+<img src="https://skillicons.dev/icons?i=java,python,js,html,css" />
 
 **Frontend**
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap" />
 
 **Backend**
 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Django REST Framework](https://img.shields.io/badge/DRF-a30000?style=for-the-badge&logo=django&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,nodemon" />
 
 **Databases**
 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
 
 **Cloud & Deployment**
 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Render](https://img.shields.io/badge/Render-%23000000.svg?style=for-the-badge&logo=render&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+<img src="https://skillicons.dev/icons?i=aws,vercel,render,netlify" />
+
+**Tools & Platforms**
+
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,postman,figma,vscode" />
 
 **Generative & Agentic AI**
 
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
 
-**Tools & Others**
+</div>
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+<br/>
 
----
+## 🚀 Featured Work
 
-### 📊 GitHub Stats
+| Project | Description | Stack |
+|---|---|---|
+| **Gifttoli** | Production e-commerce platform | MERN, JWT, Razorpay |
+| **Aloura Candles** | Production e-commerce platform | MERN, REST API |
 
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=Raushan9962&theme=dark&hide_border=false&include_all_commits=true&count_private=false" />
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Raushan9962&theme=dark&hide_border=false" />
-</p>
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Raushan9962&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
-</p>
+<br/>
 
-### 🏆 GitHub Trophies
+## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Raushan9962&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
-</p>
+<div align="center">
 
----
+<img src="https://github-stats-extended.vercel.app/api?username=Raushan9962&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false" width="49%" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Raushan9962&theme=tokyonight&hide_border=true&layout=compact" width="35%" />
 
-<p align="center">
-  <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=Raushan9962&icon=0&color=0" /></a>
-</p>
+<img src="https://streak-stats.demolab.com/?user=Raushan9962&theme=tokyonight&hide_border=true" width="70%" />
 
-<h3 align="center">💰 Support My Work</h3>
-<p align="center">
-  <a href="https://buymeacoffee.com/Raushan">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
-  </a>
-</p>
+</div>
+
+<br/>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Raushan9962&theme=tokyonight&no-frame=true&column=7&margin-w=8" />
+</div>
+
+<br/>
+
+<div align="center">
+
+### 💰 Support My Work
+
+<a href="https://buymeacoffee.com/Raushan">
+  <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
+</a>
+
+<br/><br/>
+
+<img src="https://visitcount.itsvg.in/api?id=Raushan9962&icon=0&color=6" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:06B6D4&height=100&section=footer" width="100%"/>
+
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
