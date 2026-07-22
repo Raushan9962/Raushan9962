@@ -14,7 +14,7 @@
 - 📫 **Reach me:** raushanitwork7@gmail.com
 - ⚡ **Fun fact:** I Love Tech and Tech Loves Me
 
----
+
 
 ### 💻 Tech Stack
 
@@ -82,13 +82,13 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Raushan9962&theme=dark&hide_border=false&include_all_commits=true&count_private=false" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Raushan9962&theme=dark&hide_border=false&include_all_commits=true&count_private=false" />
 </p>
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Raushan9962&theme=dark&hide_border=false" />
+  <img src="https://streak-stats.demolab.com/?user=Raushan9962&theme=dark&hide_border=false" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raushan9962&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Raushan9962&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
 </p>
 
 ### 🏆 GitHub Trophies
@@ -111,6 +111,4 @@
 </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
 
