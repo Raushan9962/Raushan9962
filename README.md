@@ -18,15 +18,31 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Full Stack Developer** based in India, building and maintaining production e-commerce platforms. I specialize in the **MERN stack** and am expanding into **Python/Django**, cloud deployment, and applied **Generative & Agentic AI**.
+I'm a **Full Stack Developer** with **1+ year of professional experience** building and maintaining production e-commerce platforms. I specialize in the **MERN stack** and am actively expanding into **Python/Django**, cloud deployment, and applied **Generative & Agentic AI**.
 
 ```yaml
 role: MERN Stack Developer @ Gifttoli, Delhi
+experience: 1+ Year (Professional) · 6 Months (Internship)
 education: B.Tech in Computer Science — Punjab Technical University
 currently_building: Production e-commerce platforms (Gifttoli, Aloura Candles)
 currently_learning: Generative AI & Agentic AI implementations
 open_to: Collaboration, freelance work, tech discussions
 ```
+
+<br/>
+
+## 💼 Experience
+
+<table>
+<tr>
+  <td><b>MERN Stack Developer</b><br/>Gifttoli, Delhi<br/><i>Sep 2024 — Present</i></td>
+  <td>Building and maintaining two live production e-commerce platforms — <b>Gifttoli</b> and <b>Aloura Candles</b> — handling end-to-end feature development, REST API design, authentication, and payment integration.</td>
+</tr>
+<tr>
+  <td><b>MERN Stack Intern</b><br/>QSpiders, Noida<br/><i>6 Months</i></td>
+  <td>Completed an intensive hands-on internship covering the full MERN stack — React, Node.js, Express, and MongoDB — building the foundation for production-level development.</td>
+</tr>
+</table>
 
 <br/>
 
