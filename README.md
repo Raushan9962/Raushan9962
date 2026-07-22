@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:06B6D4&height=200&section=header&text=Raushan%20Kumar&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20%7C%20Python%2FDjango&descAlignY=58&descSize=18" width="100%"/>
 
-<a href="https://www.linkedin.com/in/raushan-k-91140723a/">
+<a href="https://linkedin.com/in/raushan-kumar-91140723a">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:raushanitwork7@gmail.com">
@@ -52,27 +52,60 @@ open_to: Collaboration, freelance work, tech discussions
 
 **Languages & Core**
 
-<img src="https://skillicons.dev/icons?i=java,python,js,html,css" />
+<table><tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=java" width="48"/><br/>Java</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=python" width="48"/><br/>Python</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=js" width="48"/><br/>JavaScript</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=html" width="48"/><br/>HTML5</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=css" width="48"/><br/>CSS3</td>
+</tr></table>
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap" />
+<table><tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=react" width="48"/><br/>React</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=nextjs" width="48"/><br/>Next.js</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=redux" width="48"/><br/>Redux</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="48"/><br/>Tailwind CSS</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=bootstrap" width="48"/><br/>Bootstrap</td>
+</tr></table>
 
 **Backend**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,django,nodemon" />
+<table><tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="48"/><br/>Node.js</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=express" width="48"/><br/>Express</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=django" width="48"/><br/>Django</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=nodemon" width="48"/><br/>Nodemon</td>
+</tr></table>
 
 **Databases**
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
+<table><tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="48"/><br/>MongoDB</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="48"/><br/>MySQL</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=postgres" width="48"/><br/>PostgreSQL</td>
+</tr></table>
 
 **Cloud & Deployment**
 
-<img src="https://skillicons.dev/icons?i=aws,vercel,render,netlify" />
+<table><tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=aws" width="48"/><br/>AWS</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=vercel" width="48"/><br/>Vercel</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=render" width="48"/><br/>Render</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=netlify" width="48"/><br/>Netlify</td>
+</tr></table>
 
 **Tools & Platforms**
 
-<img src="https://skillicons.dev/icons?i=git,github,gitlab,postman,figma,vscode" />
+<table><tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=git" width="48"/><br/>Git</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=github" width="48"/><br/>GitHub</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=gitlab" width="48"/><br/>GitLab</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=postman" width="48"/><br/>Postman</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=figma" width="48"/><br/>Figma</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=vscode" width="48"/><br/>VS Code</td>
+</tr></table>
 
 **Generative & Agentic AI**
 
