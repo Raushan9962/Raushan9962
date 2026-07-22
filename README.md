@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:06B6D4&height=200&section=header&text=Raushan%20Kumar&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20%7C%20Python%2FDjango&descAlignY=58&descSize=18" width="100%"/>
 
-<a href="https://linkedin.com/in/raushan-kumar-91140723a">
+<a href="https://www.linkedin.com/in/raushan-k-91140723a/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:raushanitwork7@gmail.com">
